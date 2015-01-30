@@ -1,0 +1,13 @@
+{
+  "name": "tabs",
+  "main": "tabs.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/maggo/tabs",
+  "authors": [ "maggo" ],
+  "description": "Super easy and simple tab JS",
+  "keywords": [ "tabs" ],
+  "license": "WTFPL",
+  "dependencies": {
+    "jquery": ">=1.7"
+  }
+}
