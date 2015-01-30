@@ -4,7 +4,7 @@ Super easy and simple tab JS. It's even responsive! (If you want to)
 
 ## Usage
 
-1. Include tabs.js
+1. ```bower install tabsjs``` or include tabs.js directly
 2. Call .tabs(); on your tab container
 3. ???
 4. Profit!
