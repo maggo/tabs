@@ -16,6 +16,7 @@ Super easy and simple tab JS. It's even responsive! (If you want to)
   <ul class="tabs">
     <li><a class="tab active" href="#tab-1">Tab 1</a>
     <li><a class="tab" href="#tab-2">Tab 2</a>
+    <!-- closing li ommitted for responsiveness -->
   </ul>
 
   <div class="tab-contents">
