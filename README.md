@@ -30,6 +30,20 @@ Super easy and simple tab JS. It's even responsive! (If you want to)
 </div>
 ```
 
+```css
+.tab-content {
+  display: none;
+}
+
+.tab-content.active {
+  display: block;
+}
+```
+
+## Dependencies
+
+just jQuery for now
+
 ## Customization
 
 c'mon it's just around 20 lines of code. You can change the classes or extend it yourself!
